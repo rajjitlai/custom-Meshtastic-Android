@@ -16,7 +16,7 @@
  */
 
 include(":app", ":network", ":mesh_service_example")
-rootProject.name = "Meshtastic Android"
+rootProject.name = "Nibiaa P2P"
 
 plugins {
     id("org.gradle.toolchains.foojay-resolver") version "1.0.0"
